@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>wert</title>
+<style type="text/css">
+@import url("werty.css");
+</style>
+</head>
+<body>
+<div id="page">
+<div id="logo">
+<img src="" alt=""/>
+</div>
+<ul id="navigation">
+<li><a href="#" class="on">Home</a></li>
+<li><a href="#">Portfolio</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+<center><img src="New folder/unknown.png" alt="test"/></center>
+<p>
+ Welcome to my page! This is a test!
+ </p>
+ </div>
+</body>
+</html>
